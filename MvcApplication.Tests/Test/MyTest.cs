@@ -17,6 +17,9 @@ namespace MvcApplication.Tests.Test
             Assert.AreEqual("caoyang", temp);
         }
 
-        public void doTest1() { }
+        public void doTest1()
+        {
+            Console.WriteLine("test");
+        }
     }
 }
