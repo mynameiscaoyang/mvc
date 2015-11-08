@@ -16,5 +16,7 @@ namespace MvcApplication.Tests.Test
             String temp = "caoyang";
             Assert.AreEqual("caoyang", temp);
         }
+
+        public void doTest1() { }
     }
 }
